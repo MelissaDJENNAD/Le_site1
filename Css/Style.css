@@ -1,0 +1,18 @@
+h1 {
+  color: red ;
+text-align : center ;
+font-size : 50px ;
+ }
+a {
+  text-decoration : none ;
+color: black;
+ }
+a:hover {
+   color: green
+ }
+li {
+  list-style: none
+ }
+#blue {
+   background-color: rgba(0,54,255, .2);
+  } 
